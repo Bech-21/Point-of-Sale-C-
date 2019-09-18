@@ -1,0 +1,43 @@
+C:\Users\763926\Desktop\RAD\day5\POS\POS\bin\Debug\POS.exe.config
+C:\Users\763926\Desktop\RAD\day5\POS\POS\bin\Debug\POS.exe
+C:\Users\763926\Desktop\RAD\day5\POS\POS\bin\Debug\POS.pdb
+C:\Users\763926\Desktop\RAD\day5\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\763926\Desktop\RAD\day5\POS\POS\obj\Debug\POS.POSMainForm.resources
+C:\Users\763926\Desktop\RAD\day5\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\763926\Desktop\RAD\day5\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\763926\Desktop\RAD\day5\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\763926\Desktop\RAD\day5\POS\POS\obj\Debug\POS.exe
+C:\Users\763926\Desktop\RAD\day5\POS\POS\obj\Debug\POS.pdb
+C:\Users\763926\Desktop\RAD\day8\POS\POS\bin\Debug\POS.exe.config
+C:\Users\763926\Desktop\RAD\day8\POS\POS\bin\Debug\POS.exe
+C:\Users\763926\Desktop\RAD\day8\POS\POS\bin\Debug\POS.pdb
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\AddComputerTestDialogue.AddComputerProductDialogue.resources
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\POS.POSMainForm.resources
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\POS.exe
+C:\Users\763926\Desktop\RAD\day8\POS\POS\obj\Debug\POS.pdb
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\bin\Debug\POS.exe.config
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\bin\Debug\POS.exe
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\bin\Debug\POS.pdb
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\AddComputerTestDialogue.AddComputerProductDialogue.resources
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\POS.POSMainForm.resources
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\POS.exe
+C:\Users\owner\Documents\Sait class\RAD\day9\POS\POS\obj\Debug\POS.pdb
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\bin\Debug\POS.exe.config
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\bin\Debug\POS.exe
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\bin\Debug\POS.pdb
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\AddComputerTestDialogue.AddComputerProductDialogue.resources
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\POS.POSMainForm.resources
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\POS.exe
+C:\Users\owner\Documents\Sait class\RAD\day11\POS\POS\obj\Debug\POS.pdb
